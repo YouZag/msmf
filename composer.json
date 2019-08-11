@@ -23,6 +23,7 @@
         "drupal/console": "^1",
         "drupal/core": "^8.6.15",
         "drupal/sshop": "^1.1",
+        "drupal/views_slideshow": "4.x-dev",
         "drupalcommerce/commerce_base": "dev-8.x-1.x",
         "drush-ops/behat-drush-endpoint": "^9.3",
         "drush/drush": "~8",
